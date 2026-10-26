@@ -97,39 +97,6 @@ class Sabeer:
 
 <br/>
 
-## 🚀 Projects
-
-<!--
-  HOW TO ADD A PROJECT:
-  1. Copy one <td> block below
-  2. Change the repo name, description and tech badges
-  3. Replace "your-repo-name" with your actual repository name
--->
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📁 Project One</h3>
-      <p>Short one-line description of what this project does and why it's useful.</p>
-      <img src="https://img.shields.io/badge/Python-10A37F?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/Sabeer0101/your-repo-name">🔗 View Repository</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📁 Project Two</h3>
-      <p>Short one-line description of what this project does and why it's useful.</p>
-      <img src="https://img.shields.io/badge/HTML5-10A37F?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/Sabeer0101/your-repo-name">🔗 View Repository</a>
-    </td>
-  </tr>
-</table>
-
-> 🔨 More projects coming soon. Star the repo or follow along!
-
-<br/>
 
 ## 🎯 Goals for 2026–27
 
