@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:0B6B54,100:10A37F&text=Mohammed Sabeer&fontColor=FFFFFF&fontSize=70&fontAlignY=38&animation=fadeIn&desc=B.Tech%20IT%20Student%20%E2%80%A2%20Aspiring%20Developer&descSize=20&descAlignY=60" alt="Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,50:0B6B54,100:10A37F&text=Sabeer&fontColor=FFFFFF&fontSize=70&fontAlignY=38&animation=fadeIn&desc=B.Tech%20IT%20Student%20%E2%80%A2%20Aspiring%20Developer&descSize=20&descAlignY=60" alt="Banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=10A37F&center=true&vCenter=true&width=700&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+ideas+into+code;Writing+code+that+solves+real+problems;Currently+leveling+up+every+single+day+%F0%9F%9A%80" alt="Typing animation" />
 
